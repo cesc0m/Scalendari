@@ -1,0 +1,29 @@
+/*this is intended to be used with the "public" index */
+
+/* related to site */
+.site {
+    padding: 1.5rem;
+
+	font-size: 1.5rem;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	
+	border: 0 #bbb solid;
+    border-width: 1px 0 0 0;
+}
+
+.site.done {
+	text-decoration: line-through;
+	background: #dddddd;
+}
+#toolbar > #header {
+	background: #ff7700;
+	padding: 0 1rem;
+}
+
+#toolbar > #header > h1{
+	color: white;
+	font-size: 2rem;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+}

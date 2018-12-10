@@ -1,0 +1,13 @@
+
+#toolbar {
+	background: #ff7700;
+	padding: 0;
+}
+
+#toolbar > #header > #backArrowAligned > h1{
+	color: white;
+	font-size: 2rem;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	padding: 0 1rem;
+}

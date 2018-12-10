@@ -1,0 +1,29 @@
+/* to have the same visual behaviour */
+
+.fabContainer {
+	position: absolute;
+	bottom: 3rem;
+	right: 2rem;
+	z-index: 9999;
+}
+.fab {
+	position: relative;
+	background-color: #6f00ff;
+	
+	width: 4rem;
+	height: 4rem;
+	border-radius: 50%;
+	
+	box-shadow: 0 0 20px 4px #00000088;
+}
+
+.fab[onclick] {
+	cursor: pointer;	
+}
+
+.fab > img {
+	position: absolute;
+    margin: 1rem;
+    width: 2rem;
+    height: 2rem;
+}

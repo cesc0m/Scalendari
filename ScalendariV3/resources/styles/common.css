@@ -1,0 +1,59 @@
+/* body must have no margins nor padding */
+
+body {
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	width: 100vw;
+	display: flex;
+	flex-direction: column;
+}
+
+#toolbar {
+	position: relative;
+	flex-shrink: 0; /* the toolbar will not resize */
+	padding: 0;
+}
+
+#content {
+	position: relative;
+	height: 100%;
+	flex: 1; /*fill ALL the remaining space*/
+	overflow-y: auto; /* this will show scroll bar if necessary */
+}
+
+#footer {
+	position: relative;
+	flex-shrink: 0; /* the toolbar will not resize */
+}
+
+/* this is for pages which have also a back arrow */
+#toolbar #header {
+	/* header: contains backArrow, something that should stay at its right(#backArrowAligned) and maybe something other*/
+	position: relative;
+	display: flex;
+	align-items: center; 
+	flex-direction: row;
+	width: 100%;
+	
+	box-sizing: border-box;
+	
+	z-index: 9999;
+	box-shadow: 0 0 1rem 0 #000;
+}
+
+#toolbar #backArrow {
+	position: relative;
+	flex-shrink: 0; /* the back arrow will not resize */
+	height: 3rem;
+	padding: 1rem;
+	padding-right: 0;
+	align-self: middle;
+	
+	cursor: pointer;
+}
+
+#toolbar #backArrowAligned {
+	flex-grow: 1; /* this will take up all the remaining horizontal space */
+	position: relative;
+}

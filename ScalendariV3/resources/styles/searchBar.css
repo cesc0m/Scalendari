@@ -1,0 +1,48 @@
+/* search bar */
+#searchbar_container { /* container to align right and add space */
+	position: absolute;
+	right: 0;
+	top: 0;
+    box-sizing: border-box;
+    border: 1rem solid transparent;
+    width: 60%;
+    height: 100%;
+    background-color: transparent;
+    transition: width 0.2s ease-in-out, background-color 0.2s ease-in-out;
+}
+
+#searchbar_container.searching {
+	width: 100%;
+    background-color: inherit;
+}
+
+#searchbar {
+	position: relative;
+	float: right;
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    border-radius: 7px;
+    font-size: 1rem;
+    background-color: white;
+    /*
+    background-image: url('searchicon.png');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    */
+    padding: 1rem; /* relative to text in the box */
+	width: calc(100% - 3.2rem);
+	height: 100%;
+}
+
+#searchbar_clear{
+	position: relative;
+	float: left;
+    width: 0;
+    height: 2rem;
+    top: calc(50% - 1rem);
+    transition: width 0.2s ease-in-out;
+}
+
+.searching #searchbar_clear{
+	width: 2rem;
+}

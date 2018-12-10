@@ -1,0 +1,12 @@
+<area name="Bacilieri" desc="" transports="" zone="B">
+<site name="via Carlo Alberto dalla Chiesa" desc="dal bocciodromo alla rotonda dei carabinieri" calendars="8"/>
+<site name="via dello Stadio" desc="via a fianco ai carabinieri" calendars="9"/>
+<site name="via Molinara (*)" desc="da largo salvo d'acquisto alla rotonda dei carabinieri" calendars="14"/>
+<site name="largo Salvo d'Acquisto (*)" desc="zona davanti alla passeggiata fino alla rotonda del leone" calendars="-1"/>
+<site name="piazza Mons. Angelo Bacilieri" desc="davanti all'asilo bacilieri" calendars="2"/>
+<site name="via mons. Francesco Lonardi" desc="da piazza bacilieri fino alle scuole medie" calendars="41"/>
+<site name="via monte Adamello" desc="Prima via che va dalla gardesana al bacilieri" calendars="23"/>
+<site name="via Montello" desc="Seconda via che va dalla gardesana al bacilieri + case lungo la ciclabile della scuola media (spezzata a metà da francesco Lonardi, i calendari contati sono solo quelli sulla ciclabile)" calendars="13"/>
+<site name="via Olimpia" desc="da via montello a via biancardin" calendars="136"/>
+<site name="via Alfonso Salvalai" desc="da via montello a via biancardin" calendars="159"/>
+</area>

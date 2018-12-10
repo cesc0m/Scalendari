@@ -1,0 +1,28 @@
+#footer {
+	box-shadow: 0 0 1rem 0 #000;
+	background-color: lightgray;
+}
+
+#common_bar {
+	min-height: 0.8rem; 
+	background-color: green;
+}
+
+.missing_indicator {
+	position: relative;
+	color: white; 
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold; 
+	
+	text-shadow: 0 0 1rem #000;
+}
+
+.missing_indicator > #the_end {
+	display: inline-block;
+	text-align: center;
+	width: 100vw;
+}
+
+.missing_indicator > #count {
+	white-space: nowrap;
+}

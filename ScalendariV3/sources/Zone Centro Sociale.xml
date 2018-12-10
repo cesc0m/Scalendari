@@ -1,0 +1,24 @@
+<area name="Centro Sociale" desc="" transports="" zone="A">
+<site name="via Dante Alighieri" desc="dalla rotonda del centro sociale a pizza e birra" />
+<site name="via Vittorio Betteloni" desc="dalle poste alla gardesana" />
+<site name="via Borghetto" desc="dalla piazza XVI Aprile all'incrocio con l'inizio di via de gasperi " />
+<site name="via Borgolecco" desc="dalla piazza XVI Aprile al piazzale vittorio veneto (biblioteca)" />
+<site name="via Bossi" desc="la via parallela alla gardesana di fronte all'alaska" />
+<site name="via Giovanni Calabria" desc="via del centro sociale" />
+<site name="vicolo Cieco Primo" desc="traversa di via borgolecco" />
+<site name="vicolo Cieco Secondo" desc="traversa di via borgolecco" />
+<site name="via  leonardo da vinci" desc="traversa di via betelloni che da su via de gasperi" />
+<site name="via Luciano dal Cero" desc="da via leonardo da vinci a via bossi (parallela di via C. Ederle)" />
+<site name="viale Alcide de Gasperi" desc="da piazza nuova alla gardesana" />
+<site name="via carlo ederle" desc="traversa di via leonardo da vinci verso via bossi" />
+<site name="via  giosuè carducci" desc="vietta che collega via borgolecco (dopo rotonda centro sociale) a via Dante Alighieri" />
+<site name="via Giacomo Matteotti" desc="via di fronte all'ingresso del centro sociale (Poseidon)" />
+<site name="vicolo  Murici" desc="vicoletto alla fine di via pascoli ì, prima del semaforo" />
+<site name="via  Giovanni Pascoli" desc="via da piazzale vittorio veneto fino al semaforo della fermata degli autobus" />
+<site name="via Ippolito Pindemonte" desc="via dalla rotonda del centro sociale a via della filanda (ottica rinaldi)" />
+<site name="via  Piorta" desc="da via borghetta a piazzetta san gaetano" />
+<site name="via Gabriele d'Annunzio" desc="traversa di vittorio veneto (dalla rotonda piccola della biblioteca alla gardesana)" />
+<site name="via Caduti di Villa Maria" desc="traversa di vittorio veneto (dalla rotonda piccola della biblioteca alla gardesana)" />
+<site name="via  Sandro Pertini" desc="hotel cristal" />
+<site name="piazzale Vittorio Veneto (*)" desc="dalla rotonda piccola della biblioteca alla gardesana" />
+</area>

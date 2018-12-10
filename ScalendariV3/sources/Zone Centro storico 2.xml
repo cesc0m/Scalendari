@@ -1,0 +1,22 @@
+<area name="Centro storico 2" desc="" transports="bike,feet" zone="A">
+<site name="via Azzolini" desc="dal semaforo di via roma a lungo monte graziani" />
+<site name="vicolo Baldani" desc="vicoletto da piazza della libertà al parcheggio di fronte all'Ipab" />
+<site name="via Belvedere" desc="prima traversa a sx di Lungo monte graziani (da via Azzolini)" />
+<site name="via  Cavour" desc="dal monumento dei caduti fino ai padri redentoristi" />
+<site name="piazza  della vittoria" desc="dallo stop della strada di arcè fino alla rotonda della chiesa" />
+<site name="piazza  della libertà" desc="piazzetta della rotonda della chiesa" />
+<site name="via  lungomonte graziani" desc="dal monumento dei caduti a via Azzolini" />
+<site name="via Mazzini (*)" desc="da piazza XXVI aprile al semaforo" />
+<site name="piazza  Nuova" desc="via della canonica" />
+<site name="via  Ospedale" desc="via dell'ospedale (sotto via Cavour)          NO CASE" />
+<site name="vicolo Padri" desc="terza traversa a sx di via mazzini " />
+<site name="vicolo  Rivolti" desc="seconda trasversa a sx di via mazzini" />
+<site name="piazzetta Sant  Antonio" desc="parcheggio piccolo di fronte all'Ipab vecchio" />
+<site name="piazzetta San Francesco" desc="piazzetta di fronte agli alpini" />
+<site name="piazzetta  San Gaetano" desc="slargo in fondo a via mazzini" />
+<site name="largo Sant Alfonso M. de L." desc="parcheggio piccolo di fronte al pronto soccorso (sotto via Cavour)" />
+<site name="via Santa Crocefissa di rosa" desc="prima traversa a sx di via mazzini " />
+<site name="via  Santa Maria" desc="quarta traversa a sx di via mazzini" />
+<site name="piazzetta don Giuseppe Turri" desc="Parcheggio sopra l'ospedale           NO CASE" />
+<site name="piazza  XXVI Aprile" desc="piazza della chiesa     NO CASE CON CAMPANELLI" />
+</area>

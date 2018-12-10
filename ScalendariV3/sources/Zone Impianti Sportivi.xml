@@ -1,0 +1,16 @@
+<area name="Impianti Sportivi" desc="" transports="moped, bike, car, feet" zone="B" coords="45.463543, 10.851119">
+<site name="via Biancardin" desc="via dell'agespa (dall'incrocio dei carabinieri in giù)" />
+<site name="via Calipari" desc="via dell'ULSS22" />
+<site name="via Catullo" desc="prima traversa di via delle penezie, dietro le piscine" />
+<site name="piazza del grano" desc="all'inizio di via catullo" />
+<site name="piazza dello stadio" desc="parcheggio dietro agli impianti sportivi" />
+<site name="via delle Penezie" desc="dalla fine di via calipari in poi, in fondo gira a sx e fino a via molinara" />
+<site name="via Marziale" desc="traversa di via delle penezie, ciclabile che arriva al parcogiochi" />
+<site name="via Orazio" desc="traversa di via delle penezie, parallela a via ovidio" />
+<site name="via Ovidio" desc="traversa di via delle penezie, parallela a via catullo (AnnaeAlice)" />
+<site name="via Virgilio" desc="11" />
+<site name="via Molinara (*)" desc="dalla rotonda dei carabinieri in poi ATTENZIONE FINIRE IN MACCHINA" coords="45.463203, 10.850652" />
+<site name="loc Cappellare" desc="via in fondo a via delle penzie, sulla sx" />
+<site name="loc Canova delle Cappellare" desc="via in fondo a via delle penzie, sulla sx" />
+<site name="loc Cioi (*)" desc="(macchina) sulla strada comunale delle penezie, a dx dopo il calcavia dell'autostrada" />
+</area>

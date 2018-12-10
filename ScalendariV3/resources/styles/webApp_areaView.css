@@ -1,0 +1,79 @@
+
+/*this is intended to be used with the "areaView" index */
+#areaContainer {
+	position: relative;
+	width: 100%;
+}
+
+/* arrow */
+.arrow {
+	position: relative;
+	width: 2rem;
+	height: 1.2rem;
+	padding: 0 1rem;
+	
+	transition: transform 0.2s;
+}
+
+.expanded .arrow {
+	transform: scaleY(-1);
+}
+
+/* related to site */
+.site > .title {
+	position: relative;
+	top: -0.2rem;
+	display: inline-block;
+	max-width: calc(100% - 8rem);
+}
+.site.done  > .title {
+	text-decoration: line-through;
+}
+.site {
+	position: relative;
+	margin: 1px 0;
+	background-color: #efefef;
+    padding: 1.2rem;
+	font-size: 1.2rem;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+	
+	/*transition: background-color 0.2s;*/
+}
+
+.site.done {
+	background-color: #bcbcbc;
+}
+
+.site.done > .siteDescription {
+	text-decoration: line-through;
+	background: #dddddd;
+}
+
+.site .siteDescription{
+	position: relative;
+	max-height: 0;
+	padding: 0;
+	background: #fff;
+	font-size: 0;
+	opacity: 0;
+	z-index: 0;
+	
+	transition: padding 0.2s, max-height 0.2s, opacity 0.2s;
+}
+
+.expanded.site .siteDescription{
+	opacity: 1;
+	padding: 1rem;
+	color: black;
+	font-size: 0.8rem;
+	max-height: 9999px;
+}
+
+.site.initialHighlight {
+    animation: highlight 1s 1;
+}
+
+@keyframes highlight {
+    from {background-color: yellow;}
+}

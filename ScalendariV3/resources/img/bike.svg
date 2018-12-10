@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264.583 264.583">
+  <g transform="translate(0 -32.417)">
+    <circle cx="70.467" cy="193.847" r="42.059" fill="none" stroke="#000017" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.913"/>
+    <circle cx="198.652" cy="193.847" r="42.059" fill="none" stroke="#000017" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.913"/>
+    <path fill="none" stroke="#888" stroke-linecap="round" stroke-width="7.931" d="M199.324 194.606l-32.874-88.792"/>
+    <path fill="red" d="M96.384 113.698a4.957 4.957 0 0 0-4.436 6.966l8.45 19.763-35.408 50.468a4.957 4.957 0 0 0-.658 1.33 4.957 4.957 0 0 0 2.832 8.196l62.042 10.802-.374-.08c4.54 1.154 9.117.568 12.624-1.823 3.508-2.39 5.655-6.618 5.598-11.094a13.876 13.876 0 0 0-1.688-6.448l33.506-55.996a4.957 4.957 0 0 0-4.208-7.501 4.957 4.957 0 0 0-.65.037l-64.608 7.958-8.339-19.508a4.957 4.957 0 0 0-4.682-3.072zm68.765 25.7l-27.304 45.636a15.834 15.834 0 0 0-7.822-1.142l-.254.026-16.309-38.152zm-60.168 11.752l14.483 33.877-40.344 4.333-.908-.052z" color="#000" style="text-indent:0;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" white-space="normal"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-width="7.931" d="M161.485 105.283s19.34-1.06 31.023-.501 10.765 17.5 0 17.024"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-width="9.913" d="M84.697 114.224l27.685.738"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-width="7.931" d="M133.142 198.668l7.258 15.755m-6.556 4.611l17.348-2.655"/>
+  </g>
+</svg>

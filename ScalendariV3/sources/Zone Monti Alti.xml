@@ -1,0 +1,15 @@
+<area name="Monti Alti" desc="attenzione serve la macchina" transports="car" zone="A" coords="0.0,0.0">
+<site name="via  Aurora" desc="da via pastrengo al confine con pastrengo (al curvone a sx)" />
+<site name="loc Canova Monti" desc="prima asx di via aurora (non si trova su google, cercare)" />
+<site name="loc Bassa" desc="dopo loc Nobiltron sulla dx" />
+<site name="loc Colombarole" desc="prima loc a dx di via aurora" />
+<site name="via Curtatone" desc="dopo via aurora" />
+<site name="loc Nobiltron" desc="a dx di via Pastrengo (dopo il gardesano sulla curva)" />
+<site name="via Pastrengo (*)" desc="dal curvone in su" />
+<site name="loc Pigneto" desc="prima a sx di via aurora" />
+<site name="loc Pigno" desc="seconda a sx di via aurora" />
+<site name="loc Torcolo" desc="nucleo di case a sx di via pastrengo dopo nobiltron" />
+<site name="loc Olivai" desc="prima a dx di via pastrengo" />
+<site name="via Bezzecca" desc="seconda a dx di via pastrengo (google dice che è ha pastrengo)" />
+<site name="loc Gatto" desc="terza strada a dx di via pastrengo" />
+</area>

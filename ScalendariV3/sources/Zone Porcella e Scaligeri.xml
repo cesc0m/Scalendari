@@ -1,0 +1,14 @@
+<area name="Porcella e Scaligeri" desc="" transports="car" zone="B">
+<site name="loc Sant'Antonio" desc="loc a dx di via verona vicino al capitello delle quattro gambe" calendars="2"/>
+<site name="loc Porcella" desc="loc a dx di via verona altezza del capitel delle quattro gambe (dopo uscita superstrada)" calendars="26"/>
+<site name="loc Murla" desc="loc a dx sulla strada per la porcella" calendars="10"/>
+<site name="loc Madonnina" desc="ultima loc sulla via verona a sx di loc murla" calendars="11"/>
+<site name="via Girelli Erino" desc="via cieca a sx di località porcella" calendars="81"/>
+<site name="loc Casetta della Porcella" desc="unica casa dopo loc porcella, si trova dal lato che costeggia la SP5" calendars="1"/>
+<site name="loc ca di Mezzo" desc="(da via degli Scaligeri) case sulla strada a sx di loc. Zamboni, prima del ponte sull'autostrada, si incrocia a metà di loc.Porcella" calendars="15"/>
+<site name="via degli Scaligeri (*)" desc="dalla rotonda che incrocia via Martiri delle Foibe fino al cavalcavia per l'Auchan" calendars="17"/>
+<site name="loc Zamboni" desc="loc sulla destra degli Scaligeri venendo dal centro" calendars="19"/>
+<site name="via Maestri del lavoro d'Italia" desc="venendo dal Centro su via degli Scaligeri, via a sx subito dopo località ca'di Mezzo (prima del ponte)" calendars="9"/>
+<site name="loc ca' del Pozzo" desc="casa a sx dopo loc Zamboni" calendars="21"/>
+<site name="via Cristoforo Colombo (*)" desc="dalla rotonda della chiesa di Cristo Risorto fino a casetta della Porcella, le case finiscono subito dopo ca'di Mezzo" calendars="67"/>
+</area>

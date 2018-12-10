@@ -1,0 +1,12 @@
+<area name="Citella 1" desc="" transports="feet" zone="A">
+<site name="via Citella" desc="dal semaforo di via mazzini a via polda" calendars="119" />
+<site name="vicolo Citella" desc="da via citella a piazzetta san Francesco" calendars="11" />
+<site name="via Crosara" desc="dalla fine di via montemezzi a via mazzini dopo il semaforo" calendars="13" />
+<site name="via Pietro Mascagni" desc="da via montemezzi a via polda" calendars="19" />
+<site name="via Italo Montemezzi" desc="prima a dx di via citella" calendars="51" />
+<site name="via Polda" desc="seconda a dx d via citella" calendars="87" />
+<site name="via Gioacchino Rossini" desc="terza a sx di corso mazzini, dopo il semaforo" calendars="53" />
+<site name="via sen. Luigi Montresor" desc="prima a sx di via mazzini dopo il semaforo" calendars="98" />
+<site name="via Giuseppe Verdi" desc="seconda a sx di via mazzini dopo il semaforo" calendars="43" />
+<site name="via Mazzini (*)" desc="dal semaforo al cimitero" calendars="48" />
+</area>

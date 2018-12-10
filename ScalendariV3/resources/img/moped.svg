@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264.583 264.583">
+  <g transform="translate(0 -32.417)">
+    <path fill="red" stroke="red" stroke-width=".622" d="M53.49 167.577H43.274l-.786 6.285s-4.714 9.429-3.143 9.429h1.572l7.857.786z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-width="7.778" d="M186.657 90.203l9.428-4.714"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-width="11.667" d="M126.145 96.082H107.68"/>
+    <circle cx="85.305" cy="205.684" r="27.716" fill="#fff4f4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.899"/>
+    <circle cx="196.093" cy="209.628" r="27.716" fill="#fff4f4" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="8.899"/>
+    <path fill="none" stroke="#959595" stroke-linecap="round" stroke-width="7.778" d="M179.18 161.286l17.285 49.5"/>
+    <path fill="#00cd00" d="M228.682 197.433c-12.597.333-13.903-5.082-28.716-6.108-18.157-1.258-41.247 11.14-35.317 23-52.001 1.81-65.89 1.496-110.394 1.696-4.359.02-9.048-1.467-10.213-6.017-.714-2.79-4.559-60.063 25.143-60.499l42.036-1.178 12.571 43.214 32.213.786c2.003.049 3.721-13.072 15.456-24.506-1.27-18.75-17.179-37.614-17.31-50.477-.134-13.162-16.008-13.946-24.86-14.98l.393-11.393 22.288 3.752c48.461-14.802 52.829 39.022 31.35 42.5l8.434 23.758c22.381 3.563 39.229 19.663 36.926 36.452z"/>
+    <path fill="none" stroke="#000" stroke-linecap="round" stroke-width="15.556" d="M71.15 150.69l46.358-1.572"/>
+    <ellipse cx="183.898" cy="117.301" fill="#e5ffff" fill-rule="evenodd" rx="9.036" ry="15.321"/>
+    <path fill="none" stroke="#0c0" stroke-width="7.778" d="M171.729 97.268l17.285-7.857"/>
+    <path fill="none" stroke="#9b9b9b" stroke-linecap="round" stroke-linejoin="round" stroke-width="4.667" d="M63.106 126.144l.008 25.937-14.348-.008c9.365 4.52 8.919 3.268 18.071 5.304z"/>
+  </g>
+</svg>

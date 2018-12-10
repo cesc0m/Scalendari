@@ -1,0 +1,45 @@
+/*this is intended to be used with the "main webApp" index */
+
+#toolbar > #header {
+	background: #ff7700;
+	padding: 0 1rem;
+}
+
+#toolbar > #header > h1{
+	color: white;
+	font-size: 2rem;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+}
+
+.highlight {
+	background: #ff0;
+}
+
+/* area + related sites container */
+.container {
+	position: relative;
+	margin: 1px 0;
+}
+
+.area {
+	min-height: 4.5rem;
+	position: relative; /*necessary*/
+}
+
+/* related to site */
+.site {
+    padding: 0.6rem;
+	font-size: 1rem;
+	font-family: Verdana, Geneva, sans-serif;
+	font-weight: bold;
+}
+
+.site.done {
+	text-decoration: line-through;
+	background: #dddddd;
+}
+
+.hidden {
+	display: none;
+}

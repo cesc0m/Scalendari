@@ -1,0 +1,12 @@
+<area name="San Valentino" desc="" transports="" zone="A">
+<site name="vicolo Bertacchina" desc="seconda a dx di via bertacchina" calendars="31"/>
+<site name="via Emilio cav Danese" desc="piazzetta in fondo a via della filanda" calendars="41"/>
+<site name="via della Filanda" desc="di fronte alla biblioteca" calendars="15"/>
+<site name="via Paolo Veronese" desc="dalla rotonda (grande) della biblioteca alla rotonda alla fine di via mazzini" />
+<site name="via San Valentino" desc="da via mazzini alla rotonda della biblioteca" calendars="62"/>
+<site name="vicolo San Valentino" desc="traversa di via san Valentino" calendars="17"/>
+<site name="piazzale Vittorio Veneto (*)" desc="di fronte alla biblioteca" />
+<site name="via Andrea Mantegna" desc="via da di fronte alla nuova casa di riposo fino a via dell’oca bianca" />
+<site name="via Angelo dall’oca bianca" desc="dalla rotonda del leone dopo l’hotel rosa a dx" />
+<site name="via don Luigi Zocca" desc="via pedonale che unisce via della Filanda a via San Valentino" />
+</area>
