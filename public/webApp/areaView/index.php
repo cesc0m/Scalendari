@@ -8,6 +8,12 @@ if (! (isset($_GET['areaID']))) {
 }
 
 require_once '../../../config/globalconfig.php';
+require_once ROOT_FOLDER . '/src/login_util.php';
+
+if(checkLogin() != Privilege::ACCESS){
+    doLogin();
+}
+
 require_once ROOT_FOLDER . '/src/area_content_builder.php';
 require_once ROOT_FOLDER . '/src/site_content_builder.php';
 

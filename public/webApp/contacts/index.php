@@ -10,6 +10,11 @@ header("Pragma: no-cache");
 
 /* include global config and the builder for area headers */
 require_once '../../../config/globalconfig.php';
+require_once ROOT_FOLDER . '/src/login_util.php';
+
+if(checkLogin() != Privilege::ACCESS){
+    doLogin();
+}
 
 $dbConn = new PDO("mysql:host=$servername", $dbusername, $dbpassword); // opens the connection
 $dbConn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION); // throw exception on error
